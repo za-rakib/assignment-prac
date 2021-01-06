@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+ul{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+}
+li a{
+  
+  color: black;
+    margin: 15px 15px;
+    text-decoration: none ;
+    font-size: 20px;
+}
+#manu-bar{
+   
+   text-align: right;
+   margin-right: 150px;
+}
+.manu-section{
+    margin-top: 30px;
+    padding-bottom: 20px;
+   
+}
+
+.hello-section{
+    margin-top: 30px;
+   height: 700px;
+  
+   
+}
+.about-section{
+    margin-top: 30px;
+    height: 700px;
+   
+    
+}
+.working-section{
+    margin-top: 40px;
+  
+    height: 800px;
+    background-color: #ebe6e6;
+}
+
+.work-section{
+    margin-top: 100px;
+  
+    height: 300px;   
+}
+.institute-section{
+    margin-top: 30px;
+    
+    height: 550px;  
+    background-color: rgb(233, 233, 233);
+}
+h1{
+    font-size: 80px;
+    letter-spacing: 5px;
+}
+h2{
+    font-size: 50px;
+    color:#363958;
+}
+h3{
+    font-size: 30px;
+}
+p{
+  font-family: 'Roboto', sans-serif; 
+  color: #3E3E3E;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 2px;
+}
+.half-width img{
+    width: 100%;
+}
+
+.hello-half-width{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.hello{
+    color: #363958;
+}
+.name
+{
+    color: #FF8367;
+}
+.link-button{
+    
+    text-decoration: none;
+}
+.link-button p{
+    margin-top: 20px;
+    background-image:linear-gradient(45deg, lightsalmon, tomato) ;
+    font-weight: 700px;
+     width: 100px;
+    padding: 15px 10px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.half-width .img{
+margin-left: 80px;
+}
+.about-half-width{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.working-section h2{
+  
+    font-weight: 200px;
+    text-align: center;
+    padding-top: 50px;
+}
+.three-image{
+   margin-left: 30px;
+   margin-top: 80px;
+}
+.working{
+  
+    width: 25%;
+    float: left;
+    margin-left: 50px;
+    padding: 20px;
+}
+.working h3{
+  margin: 10px 0 10px 0;
+}
+.working img{
+    width: 100%;
+
+}
+.single-shadow{
+    box-shadow: 10px 10px 500px gray;
+    
+    border-radius: 10px;
+    background-color: white;
+}
+.work-back{
+    margin-top:  50px;
+
+ background-size:80% 40%;
+ height: 500px;
+ background-image: url(images/group.png);
+ background-repeat: no-repeat;
+margin-left: 18%;
+ position: relative;
+  text-align: center;
+  color: white;
+  
+  position: center;
+ 
+}
+.work{
+    position: absolute;
+    font-size: 64px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.chat{
+    position: absolute;
+   margin-left: 160px;
+  margin-top: 60px;
+    
+}
+.institute-section h1{
+    padding-top:  40px;
+    color:#363958 ;
+    letter-spacing: 10px;
+ 
+}
+.ist-width{
+    width: 40%;
+    float: left;
+ margin-left: 30px;
+    padding: 40px;
+    margin-top: 10px;
+}
+.ist-width h3{
+    color: tomato;
+    margin-top: 50px;
+}
+
+.ist-width img{
+    margin-left: 40px;
+    height: 300px;
+    width: 500px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+footer{
+    margin: 40px;
+    text-align: center;
+}
+footer h4{
+    color: #696871;
+font-weight: 500px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+footer p{
+   font-size: 36px;
+}
